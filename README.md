@@ -1,10 +1,3 @@
----
-layout: default
----
-
-# Kamal Singh Yadav
-![Kamal Singh Yadav](/assets/img/kamal_yadav.png)
-
 **Cloud DevOps Engineer**  
 Delhi NCR, India · +91 8090 490 329 · kamalyadav.cloud@gmail.com · [LinkedIn](https://www.linkedin.com/in/kamalyadavcloud)
 
